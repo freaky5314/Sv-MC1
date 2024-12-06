@@ -1,0 +1,16 @@
+{
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-05 20:48:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2024-12-05 20:49:23 -0300",
+      "minecraft:grove": "2024-12-05 20:48:26 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
